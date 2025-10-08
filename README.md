@@ -1,12 +1,15 @@
 - 👋 Hi, I’m @vivekkumar34567
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Programming.
+- 🌱 I’m currently learning Mern
+- 💞️ I’m looking to collaborate on Web based Projects
+- 📫 How to reach me 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am an Engineer
 
-<!---
-vivekkumar34567/vivekkumar34567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  </a>
+</p>
+
+
